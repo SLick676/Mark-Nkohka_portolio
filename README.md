@@ -108,12 +108,12 @@
 
   
   <section id="contact">
-    <h2>Contact</h2>
+    <h2>Contact: linkedin - Mark Nkohla</h2>
     <p>.</p>
   </section>
   
   <footer>
-    &copy; 2023 Your Name
+    &copy; 2023 Mark Nkohla
   </footer>
   
   <script>
